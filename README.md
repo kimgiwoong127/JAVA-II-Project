@@ -42,7 +42,6 @@ JAVA를 이용하여 만든 2D 플랫폼 어드벤쳐 게임입니다.
 - ????
 - ????
 - ????
-- ????
 #### 주요 기능 5 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
 - ????
 - ????
